@@ -3,7 +3,7 @@
 - This is a preliminary version, more details will be coming soon.
 
 ## Training
-- Prepare the dataset: (We provided the first AF-H&E dataset for virtual staining, you can [download]([https://hkustconnect-my.sharepoint.com/:f:/g/personal/lshiao_connect_ust_hk/Eg1nrI3BNeNAk3pPHe0yY1IBHSpuhgkj4X3MIGmYjp837g]) for research use only)
+- Prepare the dataset: (We provided the first AF-H&E dataset for virtual staining, you can [download](https://hkustconnect-my.sharepoint.com/:f:/g/personal/lshiao_connect_ust_hk/Eg1nrI3BNeNAk3pPHe0yY1IBHSpuhgkj4X3MIGmYjp837g) for research use only)
 - Train a model:
 ```
   bash run_lora.sh
